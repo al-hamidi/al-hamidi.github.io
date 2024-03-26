@@ -1,0 +1,202 @@
+[
+    {
+        "name": "سواريه",
+        "categoreyImage": "categoreyImage-1700175244890-942289665.png",
+        "items": [
+            {
+                "name": "بيتزا",
+                "type": "قطعة",
+                "price": 40,
+                "size": "صغير",
+                "description": "صوص البيتزا , فليفلة , دره , فطر , زيتون , مودزاريلا",
+                "productImage": "productImage-1701566660595-140365991.jpg"
+            },
+            {
+                "name": "سمبوسك لحمة",
+                "type": "قطعة",
+                "price": 30,
+                "size": "صغير",
+                "description": "عجين مقلي , لحمة , بصل , دبس رمان",
+                "productImage": "productImage-1701566790341-843728098.jpg"
+            },
+            {
+                "name": "لحمة بعجين كبير",
+                "type": "قطعة",
+                "price": 80,
+                "size": "كبير",
+                "description": "عجين رقاقات , لحمة , بصل , دبس رمان , طحينة",
+                "productImage": "productImage-1701566884787-486722173.jpg"
+            },
+            {
+                "name": "كبه بلحمة مقلية",
+                "type": "قطعة",
+                "price": 40,
+                "size": "وسط",
+                "description": "لحمة , بصل, دبس رمان ,مكسرات",
+                "productImage": "productImage-1701566634675-701706603.jpg"
+            },
+            {
+                "name": "اريشة",
+                "type": "قطعة",
+                "price": 40,
+                "size": "صغير",
+                "description": "بندورة , فليفلة , بصل , اريشة , مودزاريلا",
+                "productImage": "productImage-1701566681157-891692216.jpg"
+            },
+            {
+                "name": "رقاقات جبنة",
+                "type": "قطعة",
+                "price": 40,
+                "size": "صغير",
+                "description": "عجين رقاقات , جبنة تشكي و مودزاريل",
+                "productImage": "productImage-1701566734148-665522865.jpg"
+            },
+            {
+                "name": "فاهيتا",
+                "type": "قطعة",
+                "price": 40,
+                "size": "صغير",
+                "description": "عجين رقاقات , دره , فطر , فليفلة , بصل , دجاج , صوص فاهيتا ",
+                "productImage": "productImage-1701566777115-502115158.jpg"
+            },
+            {
+                "name": "زعتر",
+                "type": "قطعة",
+                "price": 25,
+                "size": "صغير",
+                "description": "عجين رقاقات , زعتر",
+                "productImage": "productImage-1701566858684-590764525.jpg"
+            },
+            {
+                "name": "لحمة بعجين صغير",
+                "type": "قطعة",
+                "price": 40,
+                "size": "صغير",
+                "description": "عجين رقاقات , لحمة , بصل , دبس رمان , طحينة",
+                "productImage": "productImage-1701567048225-872391368.jpg"
+            },
+            {
+                "name": "شعيبيات",
+                "type": "قطعة",
+                "price": 40,
+                "size": "وسط",
+                "description": "سلق , دبس رمان , سماق , بصل , جوز",
+                "productImage": "productImage-1701566823956-435666474.jpg"
+            }
+        ]
+    },
+    {
+        "name": "كروسان",
+        "categoreyImage": "categoreyImage-1700174076222-145846755.png",
+        "items": [
+            {
+                "name": "كرواسان شوكولا",
+                "type": "قطعة",
+                "price": 80,
+                "size": "وسط",
+                "description": "عجين كرواسان  , شوكولا",
+                "productImage": "productImage-1701567117000-942135849.jpg"
+            },
+            {
+                "name": "كرواسان زعتر",
+                "type": "قطعة",
+                "price": 70,
+                "size": "وسط",
+                "description": "عجين كروسان , زعتر",
+                "productImage": "productImage-1701566764194-68149849.jpg"
+            },
+            {
+                "name": "كرواسان جبنة",
+                "type": "قطعة",
+                "price": 80,
+                "size": "وسط",
+                "description": "عجين كروسان , جبنة",
+                "productImage": "productImage-1701566805506-986558637.jpg"
+            }
+        ]
+    },
+    {
+        "name": "عجين مثلج",
+        "categoreyImage": "categoreyImage-1700175343910-876272244.png",
+        "items": [
+            {
+                "name": "عجينة اللحم بعجين",
+                "type": "دزينة",
+                "price": 300,
+                "size": "صغير",
+                "description": "عدد القطع 12",
+                "productImage": "productImage-1701429146592-359125515.jpeg"
+            },
+            {
+                "name": "عجينة رقاقات ميلفاي ",
+                "type": "قطعة",
+                "price": 180,
+                "size": "وسط",
+                "description": "عدد القطع 16",
+                "productImage": "productImage-1701429599723-585195911.jpeg"
+            },
+            {
+                "name": "عجينة شيشبرك ",
+                "type": "قطعة",
+                "price": 120,
+                "size": "وسط",
+                "description": "عدد القطع 48",
+                "productImage": "productImage-1701429777284-816358938.jpeg"
+            },
+            {
+                "name": "عجينة بيتزا سواريه",
+                "type": "قطعة",
+                "price": 150,
+                "size": "وسط",
+                "description": "عدد القطع 12",
+                "productImage": "productImage-1701429828137-357790246.jpeg"
+            }
+        ]
+    },
+    {
+        "name": "كعك",
+        "categoreyImage": "categoreyImage-1700174998812-292841105.png",
+        "items": [
+            {
+                "name": "كعكة جبنة",
+                "type": "قطعة",
+                "price": 120,
+                "size": "صغير",
+                "description": "جبنة مودزاريل ",
+                "productImage": "productImage-1701430162083-963430855.jpg"
+            },
+            {
+                "name": "كعكة اكسترا جبنة ",
+                "type": "قطعة",
+                "price": 180,
+                "size": "وسط",
+                "description": "جبنة مودزاريل , جبنة تشيكي",
+                "productImage": "productImage-1701430162083-963430855.jpg"
+            },
+            {
+                "name": "كعكة بجبنة مع ذره",
+                "type": "قطعة",
+                "price": 150,
+                "size": "وسط",
+                "description": "جبنة مودزاريل , جبنة تشيكي , ذره",
+                "productImage": "productImage-1701430162083-963430855.jpg"
+            },
+            {
+                "name": "كعكة جبنة بخضرا",
+                "type": "قطعة",
+                "price": 150,
+                "size": "وسط",
+                "description": "حبنة مودزاريل , جبنة تشيكي , خضرا",
+                "productImage": "productImage-1701430162083-963430855.jpg"
+            },
+            {
+                "name": "كعكة بجبنة ببيروني",
+                "type": "قطعة",
+                "price": 180,
+                "size": "صغير",
+                "description": "جبنة مودزاريل , جبنة تشيكي , ببيروني",
+                "productImage": "productImage-1701430162083-963430855.jpg"
+            }
+        ]
+    }
+]
