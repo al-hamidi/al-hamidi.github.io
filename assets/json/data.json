@@ -36,9 +36,9 @@
                 "productImage": "productImage-1701566634675-701706603.jpg"
             },
             {
-                "name": "اريشة",
+                "name": "أريشة مع جبنة",
                 "type": "قطعة",
-                "price": 40,
+                "price": 50,
                 "size": "صغير",
                 "description": "بندورة , فليفلة , بصل , اريشة , مودزاريلا",
                 "productImage": "productImage-1701566681157-891692216.jpg"
@@ -90,14 +90,6 @@
                 "size": "وسط",
                 "description": "سلق , دبس رمان , سماق , بصل , جوز",
                 "productImage": "productImage-1701566823956-435666474.jpg"
-            },
-            {
-                "name": "أريشة مع جبنة",
-                "type": "قطعة",
-                "price": 50,
-                "size": "وسط",
-                "description": "سلق , دبس رمان , سماق , بصل , جوز",
-                "productImage": ""
             },
             {
                 "name": "تركية مع جبنة",
@@ -189,7 +181,7 @@
                 "price": 120,
                 "size": "وسط",
                 "description": "عدد القطع 12",
-                "productImage": "productImage-1701429828137-357790246.jpeg"
+                "productImage": "categoreyImage-1700175343910-876272244.png"
             },
             {
                 "name": "عجينة رقاقات مربعة",
@@ -257,7 +249,7 @@
                 "price": 100,
                 "size": "",
                 "description": "",
-                "productImage": ""
+                "productImage": "tart.png"
             },
             {
                 "name": "Tarte Nutella",
@@ -265,7 +257,7 @@
                 "price": 100,
                 "size": "",
                 "description": "",
-                "productImage": ""
+                "productImage": "tart.png"
             },
             {
                 "name": "Tarte Lotus",
@@ -273,7 +265,7 @@
                 "price": 100,
                 "size": "",
                 "description": "",
-                "productImage": ""
+                "productImage": "tart.png"
             }
         ]
      }
