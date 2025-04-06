@@ -370,5 +370,129 @@
           "productImage": ""
         }
       ]
+    },
+    {
+      "name": "منقوش",
+      "categoreyImage": "mankoush.svg",
+      "items": [
+        {
+          "name": "زعتر",
+          "type": "قطعة",
+          "price": "70,000",
+          "size": "وسط",
+          "description": "زعتر, زيت زيتون",
+          "productImage": "zaatar.jpg"
+        },
+        {
+          "name": "جبنة",
+          "type": "قطعة",
+          "price": "150,000",
+          "size": "وسط",
+          "description": "جبنة عكاوي, جبنة قشقوان",
+          "productImage": "jbneh.jpg"
+        },
+        {
+          "name": "أريشة",
+          "type": "قطعة",
+          "price": "140,000",
+          "size": "وسط",
+          "description": "أريشة, بندورة, فليفلة, بصل",
+          "productImage": "aresheh.jpg"
+        },
+        {
+          "name": "تركية",
+          "type": "قطعة",
+          "price": "150,000",
+          "size": "وسط",
+          "description": "بندورة, فليفلة, بصل, بهارات حارة",
+          "productImage": "terkyi.jpg"
+        },
+        {
+          "name": "نص زعتر نص جبنة",
+          "type": "قطعة",
+          "price": "120,000",
+          "size": "وسط",
+          "description": "زعتر, زيت زيتون, جبنة عكاوي",
+          "productImage": "nos-z3tar-nos-jebneh.jpg"
+        },
+        {
+          "name": "لحمة",
+          "type": "قطعة",
+          "price": "200,000",
+          "size": "وسط",
+          "description": "لحمة مفرومة, بصل, بندورة, بهارات",
+          "productImage": "lahme.jpg"
+        }
+      ]
+    },
+    {
+      "name": "منقوش اكسترا",
+      "categoreyImage": "mankoush.svg",
+      "items": [
+        {
+          "name": "أريشة مع جبنة",
+          "type": "قطعة",
+          "price": "200,000",
+          "size": "وسط",
+          "description": "أريشة, جبنة عكاوي, بندورة, فليفلة, بصل",
+          "productImage": "aresheh.jpg"
+        },
+        {
+          "name": "لحمة مع جبنة",
+          "type": "قطعة",
+          "price": "260,000",
+          "size": "وسط",
+          "description": "لحمة مفرومة, جبنة عكاوي, بصل, بندورة, بهارات",
+          "productImage": ""
+        },
+        {
+          "name": "جبنة اكسترا",
+          "type": "قطعة",
+          "price": "220,000",
+          "size": "وسط",
+          "description": "جبنة عكاوي, جبنة قشقوان, موزاريلا",
+          "productImage": "jbneh.jpg"
+        },
+        {
+          "name": "جبنة ودرة",
+          "type": "قطعة",
+          "price": "220,000",
+          "size": "وسط",
+          "description": "جبنة عكاوي, جبنة قشقوان, ذرة حلوة",
+          "productImage": ""
+        },
+        {
+          "name": "جبنة وخضرة",
+          "type": "قطعة",
+          "price": "220,000",
+          "size": "وسط",
+          "description": "جبنة عكاوي, جبنة قشقوان, بقدونس, نعناع",
+          "productImage": ""
+        },
+        {
+          "name": "جبنة وسجق",
+          "type": "قطعة",
+          "price": "250,000",
+          "size": "وسط",
+          "description": "جبنة عكاوي, جبنة قشقوان, سجق",
+          "productImage": ""
+        },
+        {
+          "name": "جبنة وبيبروني",
+          "type": "قطعة",
+          "price": "250,000",
+          "size": "وسط",
+          "description": "جبنة عكاوي, جبنة قشقوان, بيبروني",
+          "productImage": ""
+        },
+        {
+          "name": "جبنة وحبش",
+          "type": "قطعة",
+          "price": "250,000",
+          "size": "وسط",
+          "description": "جبنة عكاوي, جبنة قشقوان, شرائح حبش",
+          "productImage": ""
+        }
+      ]
     }
   ]

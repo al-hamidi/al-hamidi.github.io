@@ -62,16 +62,6 @@ function Header() {
               <li>
                 <a
                   onClick={handleContainerClick}
-                  href="#Menu"
-                  className={`${styles["navbar-link"]} ${styles["hover-underline"]} `}
-                >
-                  <div className={styles.separator}></div>
-                  <span className="span">Menu</span>
-                </a>
-              </li>
-              <li>
-                <a
-                  onClick={handleContainerClick}
                   href="#AboutUs"
                   className={`${styles["navbar-link"]} ${styles["hover-underline"]} `}
                 >
@@ -82,13 +72,14 @@ function Header() {
               <li>
                 <a
                   onClick={handleContainerClick}
-                  href="#Location"
+                  href="#Menu"
                   className={`${styles["navbar-link"]} ${styles["hover-underline"]} `}
                 >
                   <div className={styles.separator}></div>
-                  <span className="span">Contact</span>
+                  <span className="span">Menu</span>
                 </a>
               </li>
+
               <li>
                 <a
                   onClick={handleContainerClick}
@@ -96,7 +87,7 @@ function Header() {
                   className={`${styles["navbar-link"]} ${styles["hover-underline"]} `}
                 >
                   <div className={styles.separator}></div>
-                  <span className="span">Location</span>
+                  <span className="span">Contact & Location</span>
                 </a>
               </li>
             </ul>
