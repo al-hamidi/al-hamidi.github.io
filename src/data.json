@@ -154,7 +154,7 @@
       {
         "name": "كرواسان جبنة",
         "type": "قطعة",
-        "price": "100,000",
+        "price": "130,000",
         "size": "وسط",
         "description": "عجين كروسان , جبنة",
         "productImage": "qurwason-jbnih.jpg"
@@ -162,7 +162,7 @@
       {
         "name": "كرواسان شوكولا",
         "type": "قطعة",
-        "price": "100,000",
+        "price": "130,000",
         "size": "وسط",
         "description": "عجين كرواسان  , شوكولا",
         "productImage": "qurwason-chocolate.jpg"
@@ -184,7 +184,7 @@
       {
         "name": "كعكة جبنة",
         "type": "قطعة",
-        "price": "150,000",
+        "price": "200,000",
         "size": "صغير",
         "description": "جبنة مودزاريل ",
         "productImage": "kaaki+jbnih.jpg"
@@ -200,7 +200,7 @@
       {
         "name": "كعكة بجبنة مع ذره",
         "type": "قطعة",
-        "price": "200,000",
+        "price": "250,000",
         "size": "وسط",
         "description": "جبنة مودزاريل , جبنة تشيكي , ذره",
         "productImage": "kaaki+jbnih.jpg"
@@ -208,7 +208,7 @@
       {
         "name": "كعكة جبنة بخضرا",
         "type": "قطعة",
-        "price": "200,000",
+        "price": "250,000",
         "size": "وسط",
         "description": "حبنة مودزاريل , جبنة تشيكي , خضرا",
         "productImage": "kaaki+jbnih.jpg"
@@ -224,7 +224,7 @@
       {
         "name": "كعكة بجبنة حبش",
         "type": "قطعة",
-        "price": "230,000",
+        "price": "270,000",
         "size": "صغير",
         "description": "جبنة مودزاريل , جبنة تشيكي , حبش",
         "productImage": "kaaki+jbnih.jpg"
@@ -235,6 +235,14 @@
         "price": "230,000",
         "size": "صغير",
         "description": "sitos , جبنة مودزاريل , جبنة تشيكي",
+        "productImage": "kaaki+jbnih.jpg"
+      },
+      {
+        "name": "كعكة جبنة وسجق",
+        "type": "قطعة",
+        "price": "270,000",
+        "size": "صغير",
+        "description": "جبنة مودزاريل , جبنة تشيكي , سجق",
         "productImage": "kaaki+jbnih.jpg"
       }
     ]
@@ -378,7 +386,7 @@
       {
         "name": "زعتر",
         "type": "قطعة",
-        "price": "70,000",
+        "price": "80,000",
         "size": "وسط",
         "description": "زعتر, زيت زيتون",
         "productImage": "zaatar.jpg"
@@ -386,7 +394,7 @@
       {
         "name": "جبنة",
         "type": "قطعة",
-        "price": "150,000",
+        "price": "170,000",
         "size": "وسط",
         "description": "جبنة عكاوي, جبنة قشقوان",
         "productImage": "jbneh.jpg"
@@ -394,7 +402,7 @@
       {
         "name": "أريشة",
         "type": "قطعة",
-        "price": "140,000",
+        "price": "150,000",
         "size": "وسط",
         "description": "أريشة, بندورة, فليفلة, بصل",
         "productImage": "aresheh.jpg"
@@ -402,26 +410,34 @@
       {
         "name": "تركية",
         "type": "قطعة",
-        "price": "150,000",
+        "price": "170,000",
         "size": "وسط",
         "description": "بندورة, فليفلة, بصل, بهارات حارة",
         "productImage": "terkyi.jpg"
       },
       {
+        "name": "زعتر خضرة",
+        "type": "قطعة",
+        "price": "100,000",
+        "size": "وسط",
+        "description": "زعتر, زيت زيتون, خضرة",
+        "productImage": ""
+      },
+      {
         "name": "نص زعتر نص جبنة",
         "type": "قطعة",
-        "price": "120,000",
+        "price": "140,000",
         "size": "وسط",
         "description": "زعتر, زيت زيتون, جبنة عكاوي",
         "productImage": "nos-z3tar-nos-jebneh.jpg"
       },
       {
-        "name": "لحمة",
+        "name": "موزريلا",
         "type": "قطعة",
         "price": "200,000",
         "size": "وسط",
-        "description": "لحمة مفرومة, بصل, بندورة, بهارات",
-        "productImage": "lahme.jpg"
+        "description": "موزريلا",
+        "productImage": ""
       }
     ]
   },
@@ -472,7 +488,7 @@
       {
         "name": "جبنة وسجق",
         "type": "قطعة",
-        "price": "250,000",
+        "price": "270,000",
         "size": "وسط",
         "description": "جبنة عكاوي, جبنة قشقوان, سجق",
         "productImage": ""
@@ -480,7 +496,7 @@
       {
         "name": "جبنة وبيبروني",
         "type": "قطعة",
-        "price": "250,000",
+        "price": "270,000",
         "size": "وسط",
         "description": "جبنة عكاوي, جبنة قشقوان, بيبروني",
         "productImage": ""
@@ -488,7 +504,7 @@
       {
         "name": "جبنة وحبش",
         "type": "قطعة",
-        "price": "250,000",
+        "price": "270,000",
         "size": "وسط",
         "description": "جبنة عكاوي, جبنة قشقوان, شرائح حبش",
         "productImage": ""
