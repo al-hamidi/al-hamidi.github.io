@@ -38,7 +38,7 @@ function HomeMenue() {
           }}
         >
           <img
-            src={require(`../../assets/images/items/${elem.categoreyImage}`)}
+            src={elem.categoreyImage ? require(`../../assets/images/items/${elem.categoreyImage}`) : ''}
             alt={elem.name}
             width="30px"
           />
